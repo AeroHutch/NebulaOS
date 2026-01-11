@@ -1,0 +1,6 @@
+project_id: "nebulaos"
+base_path: "."
+
+files:
+  - source: "/translations/en-US/lang.json" # Where your source file is
+    translation: "/translations/%locale%/%original_file_name%"
