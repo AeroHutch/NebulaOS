@@ -1,16 +1,1 @@
-{
-  "setup.message.1":"Welcome to AeroOS",
-  "setup.message.2":"What is your language?",
-  "setup.message.3":"What is going to be your username?",
-  "setup.message.4":"Is %s going to be your username?",
-  "setup.message.5":"Congrats %s, you have completed the setup!",
-  "nebula.button.no":"No",
-  "nebula.button.yes":"Yes",
-  "nebula.button.nocor":"Incorrect",
-  "nebula.button.cor":"Correct",
-  "nebula.button.ok":"Okay",
-  "nebula.button.pro":"Proceed",
-  "nebula.button.enter":"Enter",
-  "nebula.error.username":"The username (%s) has detected some errors. Relaunching the setup",
-  "nebula.menu.incomplete":"Sorry, but the start menu is under development"
-}
+{"setup.message.1":"Welcome to AeroOS","setup.message.2":"What is your language?","setup.message.3":"What is going to be your username?","setup.message.4":"Is %s going to be your username?","setup.message.5":"Congrats %s, you have completed the setup!","nebula.button.no":"No","nebula.button.yes":"Yes","nebula.button.nocor":"Incorrect","nebula.button.cor":"Correct","nebula.button.ok":"Okay","nebula.button.pro":"Proceed","nebula.button.enter":"Enter","nebula.error.username":"The username (%s) has detected some errors. Relaunching the setup","nebula.menu.incomplete":"Sorry, but the start menu is under development"}
